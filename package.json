@@ -1,0 +1,12 @@
+{
+  "name": "acquisition-structuring-leeds-3000",
+  "version": "1.0.0",
+  "description": "Property Portfolio Acquisition and Structuring in Leeds",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
